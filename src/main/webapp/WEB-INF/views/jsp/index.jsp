@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
 	<div class="container">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="#">Project Name</a>
+			<a class="navbar-brand" href="#">My Project Ganesan</a>
 		</div>
 	</div>
 </nav>
@@ -39,8 +39,8 @@
 <div class="container">
 
 	<div class="row">
-		<div class="col-md-14">
-			<h2>Hi mysel Ganesan Welcome To greens Technologies, Porur, Chennai, Tamilnadu.</h2>
+		<div class="col-md-23">
+			<h2>Hi myself Ganesan Welcome To Greens Technologies, Porur, Chennai, Tamilnadu.</h2>
 			<h3>Contact @ +91-8807915493</h3>
 		</div>	
 	</div>
